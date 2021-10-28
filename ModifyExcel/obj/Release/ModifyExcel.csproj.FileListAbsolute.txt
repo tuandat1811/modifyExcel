@@ -1,0 +1,12 @@
+W:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.csprojAssemblyReference.cache
+W:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.exe
+W:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.pdb
+W:\workspaces\access\HPTN083\sources\ModifyExcel.exe
+W:\workspaces\access\HPTN083\sources\ModifyExcel.pdb
+E:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.csproj.CoreCompileInputs.cache
+E:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.exe
+E:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.pdb
+E:\workspaces\access\HPTN083\sources\ModifyExcel.exe
+E:\workspaces\access\HPTN083\sources\ModifyExcel.pdb
+E:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.csproj.CopyComplete
+E:\workspaces\access\HPTN083\sources\ModifyExcel\ModifyExcel\obj\Release\ModifyExcel.csprojAssemblyReference.cache
